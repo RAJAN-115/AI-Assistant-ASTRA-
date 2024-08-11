@@ -51,3 +51,17 @@ Run the `main.py` file to start Astra:
 
 python main.py
 
+Step 3: Interact with Astra
+Follow the on-screen prompts to interact with the assistant.
+
+
+
+✨ Explore Astra's Features ✨
+What can Astra do? 🤔
+
+🕰️ Tells time and date: Just ask, and Astra will give you the current time and date.
+📧 Sends emails: Easily send emails through Astra.
+🔍 Searches on Google: Need information? Astra can search Google for you.
+📸 Takes screenshots: Capture your screen with a simple command.
+😂 Tells jokes: Get a laugh with Astra's jokes.
+And more!: Explore additional features as you use Astra.
