@@ -44,7 +44,7 @@ executing==1.2.0
 fastjsonschema==2.16.3
 filelock==3.13.3
 Flask==2.2.3
-fonttools==4.39.3
+fonttools==4.61.0
 fqdn==1.5.1
 gunicorn==22.0.0
 idna==3.7
